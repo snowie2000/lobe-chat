@@ -1,3 +1,4 @@
+//@ts-expect-error no type available
 import RegExp from 'regexp-polyfill';
 
 export const PLUGIN_SCHEMA_SEPARATOR = '____';
